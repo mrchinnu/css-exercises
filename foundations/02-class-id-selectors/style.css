@@ -1,0 +1,15 @@
+.odd{
+    background-color : #ffcccb;
+    font-family : verdana , 'dejaVu sans' , sans-serif;
+}
+#unq{
+    color : #0000ff;
+    font-size : 36px;
+}
+.size{
+    font-size: 24px;
+}
+#nodd{
+    background-color: #90ee90;
+    font-weight: bold;
+}
